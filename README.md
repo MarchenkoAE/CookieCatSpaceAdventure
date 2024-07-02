@@ -59,6 +59,8 @@ There are multiple endings to this game:
 -GAME OVER is when the main character runs out of health.
 -VICTORY is when the main character gets rid of all the enemy 'waves'.
 
+Distribution 
 
-
+Please do not distribute this product without it's owner's(my) permission. 
+This piece of software is protected by copyright law and is not intended for commercial use.
 
